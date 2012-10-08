@@ -1,4 +1,4 @@
 ignite12
 ========
 
-college techfest website
+Website For Techfest organised by Techfest
