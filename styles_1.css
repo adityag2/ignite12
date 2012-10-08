@@ -1,0 +1,455 @@
+/*
+Design by Metamorphosis Design
+http://www.metamorphozis.com
+Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+*
+{
+border: 0;
+margin: 0;
+}
+
+img
+{
+border: 0px;
+}
+
+
+
+
+
+
+
+.but {
+	width: 103px;
+}
+
+
+.footer_main{
+	width:100%;
+	margin-top:0px;
+	height:auto;
+	}
+.footer_bgtop{
+	width:1000px;
+	margin-left:auto;
+	margin-right:auto;
+	height:225px;
+	}
+.footer_body{
+	width:1000px;
+	float:left;
+	height:220px;
+	background-image:url(../images/bgfooter.jpg);
+	}
+ .follow{
+	width:300px;
+	float:left;
+	text-align:left;
+	margin-top:5px;
+	padding-left:20px;
+	margin-left: 15px;
+	height: 70px;
+	}
+ .follow_right{
+	width:650px;
+	float:right;
+	height:60px;
+	}	
+.why{
+	width:600px;
+	height:auto;
+	background-position:right;
+	padding-right:3px;
+	padding-bottom:5px;
+	margin-top:10px;
+	float:right;
+	}	
+ .footer_bottom{
+	width:1000px;
+	margin-top:163px;
+	margin-left:auto;
+	margin-right:auto;
+	}
+	
+.serv_text{
+	color:#333333;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	font-weight:bold;
+	text-align:center;
+	text-decoration:none;
+	}
+.serv_text1{
+	color:#333333;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	margin-left:50px;
+	font-weight:bold;
+	text-align:left;
+	text-decoration:none;
+	
+	}
+
+.serv_text2{
+	color:#333333;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:18px;
+	font-weight:bold;
+	text-align:right;
+	}
+.serv_text3{
+	color:#990000;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:20px;
+	font-weight:bold;
+	text-align:right;
+	text-shadow:#666666;
+	}
+.serv_text a{
+	color:#3333CC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	font-weight:bold;
+	text-align:center;
+	text-decoration:underline;
+	}	
+.serv_text a:hover{
+	color:#003399;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	text-align:center;
+	font-weight:bold;
+	text-decoration:blink;
+	}
+	
+
+
+
+.top { height: 360px;
+padding-top: 20px
+	}
+
+.top_text {
+	width: 942px;
+	float:left;
+	background: url(images/content_text.png);
+	height:308px;
+	padding: 0px 32px 0px 0px;}
+
+.top_img {
+	float:left;
+	padding: 15px 31px 0px 15px;
+	}
+
+
+
+#cont_razd{
+	background: url(images/cont_razd.gif) 679px repeat-y;
+	width: 100%;
+}
+
+.cont_home {
+padding: 0px 20px 0px 20px;}
+
+.home_box {
+	float: left;
+	width: 298px; }
+
+
+#left{
+	width: 640px;
+	float: left;
+	color:#000000;
+	margin-left: 20px;
+}
+
+.text{
+	padding: 0px 0px 15px 0px;
+}
+
+.img_l {	float:left;
+		margin: 6px 20px 5px 0px;
+}
+
+.img_r {	float: right;
+		margin: 9px 10px 3px 10px;
+}
+
+.span_cont {	color: #262626;
+	font-size:12px;
+	font-weight:bold;
+}
+
+ H1{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:20px;
+	font-weight: 100;
+	color: #04078E;
+	text-align: left;
+	padding: 10px 0px 0px 0px;
+}
+
+
+.read_l {
+	font-size:12px;
+	color: #ffffff;
+	text-decoration: none;
+	padding-right: 2px;
+	background: url(images/read.jpg) left top no-repeat;
+	display:block;
+	height: 17px;
+	line-height: 17px;
+	width: 66px;
+	padding: 0px 0px 0px 0px;
+	text-align: center;
+	float: left;
+
+}
+
+.read_l:hover {
+	font-size:12px;
+	text-decoration: underline;
+}
+
+.next {
+	width: 100%;
+	text-align: right;
+	padding: 0px 0px 0px 0px;}
+
+	.next a{
+	color:#FFFFFF;
+	text-decoration: none; }
+
+.next a:hover {
+	text-decoration: underline; }
+
+
+
+#right{
+	float: right;
+	width: 293px;
+	margin-right: 20px;
+}
+
+.span_dat {
+	color: #262626;
+	text-decoration: underline;
+	font-weight: bold;}
+
+
+
+.spis_bot {
+	list-style:none;
+	padding: 0px 0px 0px 0px;}
+
+.spis_bot li {
+	padding: 5px 0px 0px 18px;
+	background: url(images/fish2.png) 0px 14px no-repeat;
+	}
+
+.spis_bot a {
+	color:#262626;
+	text-decoration:none;
+	font-weight: 100;
+	background: url(images/spis_bot_a.gif) bottom repeat-x;
+	display: block;}
+.spis_bot a:hover {
+	text-decoration: none;
+	}
+
+.fu_i {
+	padding: 0px 14px 0px 0px;
+	vertical-align: middle ;
+}
+
+#b_col2 ul {
+	list-style:none;
+	padding: 0px 0px 0px 13px;}
+
+#b_col2 li {
+	padding: 8px 0px 0px 0px;
+	background: none;
+	}
+
+
+/* blog */
+
+.dat_img {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #ffffff;
+	float:left;
+	width: 50px;
+	height: 46px;
+	padding: 4px 0px 0px 0px;
+	margin-right: 15px;
+	background:url(images/dat_img.gif) 0px 0px no-repeat;
+	text-align:center;
+	}
+
+.datc_coment {
+	height: 27px;
+	width: 570px;
+	background:url(images/datc_coment.gif) top repeat-x;
+	padding: 3px 0px 0px 0px;}
+
+.datc  {
+	float: left;
+	width: 346px;}
+
+.coment {
+	float: right;
+	width: 146px;
+	text-align: right;}
+
+.datc_coment a {
+	color: #262626;
+	text-decoration:none;
+	font-weight: bold;}
+
+.datc_coment a:hover {
+	text-decoration:underline;}
+
+.img_ind1 {
+	padding: 17px 0px 10px 0px;}
+
+.text_ind1 {
+	padding: 0px 87px 0px 0px;}
+
+
+.spis {
+	list-style:none;
+	padding: 0px 0px 0px 0px;}
+
+.spis  li {
+	padding: 8px 0px 2px 20px;
+	background: url(images/spis.gif) left bottom no-repeat;
+	}
+.spis a:hover {
+	text-decoration: none;
+	}
+
+.spis a {
+	color:#262626;
+	text-decoration:none;
+	font-weight: bold;}
+
+.gal_num {
+	width:13px;
+	height:21px;
+	padding: 0px 0px 0px 7px;
+	display:block;
+	background: url(images/gal_num.gif) left top no-repeat;
+	color: #FFFFFF;
+	font-size: 12px;
+	margin: 0px 5px 0px 0px;
+	text-decoration:none;
+	float: left;}
+
+.gal_num:hover {
+	background:url(images/gal_num_hover.gif) left top no-repeat;
+	text-decoration: none;}
+
+.a_blog {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:20px;
+	font-weight: 100;
+	color: #04078E;
+	text-align: left;
+	padding: 10px 0px 0px 0px;
+	text-decoration: none;
+}
+
+.a_blog:hover { text-decoration: underline;}
+
+/* gallery */
+
+.row {
+	padding: 0px 0px 0px 20px;
+	height: 273px;
+}
+
+.box_img2 {
+	width: 272px;
+	height: 273px;
+	background: url(images/box_img.jpg) 0px 0px no-repeat;
+	padding: 0px 20px 0px 20px;
+	float:left;
+	color: #FFFFFF;
+}
+
+.box_razd {
+	width: 19px;
+	height: 50px;
+	float: left;
+}
+
+.box_img2 h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:20px;
+	font-weight: 100;
+	color: #74DBFE;
+	text-align: left;
+	padding: 15px 0px 15px 0px;
+}
+
+
+
+
+
+
+/* about us */
+
+.box_about {
+	width: 310px;
+	float:left;}
+
+/* contact us */
+
+#left label {
+	width: 103px;
+	float:left;
+	padding: 5px 0px 0px 5px;}
+
+
+.box_us {
+width: 265px;
+background: url(images/box_us.gif) 0px bottom repeat-x;
+padding-left: 0px;
+}
+
+.box_us_l {
+width: 28px;
+float: left;
+padding-top:0px;
+vertical-align: top;
+text-align:left;}
+
+.box_us_r {
+width: 227px;
+float: left;}
+
+/*
+Header scroll
+*/
+
+.roundabout-holder {
+				list-style: none;
+				width: 714px;
+				height: 280px;
+				margin: 0 auto;
+			}
+
+			.roundabout-moveable-item {
+				height: 286px;
+				width: 510px;
+				background-color: #f3f3f3;
+				font-size: 2em;
+				cursor: pointer;
+			}
+
+			.roundabout-in-focus {
+				cursor: auto;
+			}
